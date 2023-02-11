@@ -7,6 +7,7 @@ function App() {
       <div>Hello</div>
       <div>MY</div>
       <div>WORLD</div>
+      <div>WORLD</div>
     </div>
   );
 }
